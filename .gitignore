@@ -1,0 +1,4 @@
+*.mvn
+*.factorypath
+*.target
+*.gitignore
